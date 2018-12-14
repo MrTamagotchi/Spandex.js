@@ -1,0 +1,11 @@
+{
+  "name": "spandex.js",
+  "version": "1.0.0",
+  "description": "The flexiblest text span wrapper",
+  "main": "index.js",
+  "author": "Kotte Ivanov",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
